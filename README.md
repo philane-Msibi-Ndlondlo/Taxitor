@@ -4,19 +4,17 @@ ___
 
 Preview Pics
 
-![GitHub User Profile Search Pic 1](https://philane-msibi.000webhostapp.com/img/hawky.wmv)
+![Taxitor](https://images.ctfassets.net/d8xmlp2haryb/qfZ7BjC7g8sqAwNq4RTqL/7b841aabbfce2197bb03f2a21cb2f98a/Taxitor.gif?h=250)
+___
 
-# Tech Stack
-1. React
-2. SASS
-3. GitHub API
+# Features
 
+1. Single Passanger Taxi Fare Calculator - Put in Taxi Fare, amount and number of Passangers then Driver's total amount, Passanger Change is shown.
+2. Per seat Total Taxi Fare Calculator - Put Taxi Fare Amount and Driver's Taxi Fare Total Amount is shown per seat.
 ___
 
 # Tech Stack
 
-1. React Native, Expo
-2. News API
-3. Module Styles
-
+1. React Native
+2. SASS
 ___
